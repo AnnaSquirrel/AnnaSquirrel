@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnnaSquirrel
+- 👋 Hi, I’m @Anna
 - 👀 I’m interested in coding(FALSE) and cooking(TRUE)
 - 🌱 I’m currently learning R(for graduation) and Python(for fun)
 - 📫 How to reach me: WhatsApp (+8613051189175)
